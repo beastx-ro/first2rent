@@ -18,6 +18,16 @@ Tired of manually checking apartment sites? This prompt turns Claude into your p
 2. Copy the prompt below
 3. Say "Setup apartment hunt"
 
+<details>
+<summary>📋 View the prompt (click to expand)</summary>
+
+```
+Your apartment hunting prompt content goes here...
+This will be hidden by default but expandable.
+Users can copy this entire block when expanded.
+```
+</details>
+
 ## Commands
 
 - `Setup apartment hunt` - Initial setup
